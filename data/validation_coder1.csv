@@ -1,0 +1,276 @@
+priority,model_id,category,evidence,correct,coder,note
+A-rare-positive,black-forest-labs/FLUX.2-klein-4B,watermark,"atforms better identify, label, and interpret AI-generated content online. The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links to the https://c2pa.org/ standard for metadata. The API for FLUX.2 [klein] applies cryptographically-si",1,claude (coder author),
+A-rare-positive,black-forest-labs/FLUX.2-klein-base-4B,watermark,"atforms better identify, label, and interpret AI-generated content online. The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links to the https://c2pa.org/ standard for metadata. The API for FLUX.2 [klein] applies cryptographically-si",1,claude (coder author),
+A-rare-positive,unsloth/FLUX.2-klein-4B-GGUF,watermark,"atforms better identify, label, and interpret AI-generated content online. The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links to the https://c2pa.org/ standard for metadata. The API for FLUX.2 [klein] applies cryptographically-si",1,claude (coder author),
+A-rare-positive,black-forest-labs/FLUX.2-klein-4b-fp8,watermark,"atforms better identify, label, and interpret AI-generated content online. The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links to the https://c2pa.org/ standard for metadata. The API for FLUX.2 [klein] applies cryptographically-si",1,claude (coder author),
+A-rare-positive,black-forest-labs/FLUX.2-klein-base-4b-fp8,watermark,"atforms better identify, label, and interpret AI-generated content online. The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links to the https://c2pa.org/ standard for metadata. The API for FLUX.2 [klein] applies cryptographically-si",1,claude (coder author),
+A-rare-positive,black-forest-labs/FLUX.2-klein-4B,provenance,"The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links to the https://c2pa.org/ standard for metadata. The API for FLUX.2 [klein] applies cryptographically-signed C2PA metadata to downloaded output content to indicate that i",1,claude (coder author),
+A-rare-positive,black-forest-labs/FLUX.2-klein-base-4B,provenance,"The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links to the https://c2pa.org/ standard for metadata. The API for FLUX.2 [klein] applies cryptographically-signed C2PA metadata to downloaded output content to indicate that i",1,claude (coder author),
+A-rare-positive,unsloth/FLUX.2-klein-4B-GGUF,provenance,"The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links to the https://c2pa.org/ standard for metadata. The API for FLUX.2 [klein] applies cryptographically-signed C2PA metadata to downloaded output content to indicate that i",1,claude (coder author),
+A-rare-positive,black-forest-labs/FLUX.2-small-decoder,provenance,"sexual abuse material (CSAM) and nonconsensual intimate imagery (NCII). For detailed information about our mitigations, evaluation processes, content provenance features, and policies, please see our post: [Capable, Open, and Safe: Combating AI Misuse](https://bfl.ai/blog/capable-open-and-safe-combating-ai-mi",1,claude (coder author),
+A-rare-positive,black-forest-labs/FLUX.2-klein-4b-fp8,provenance,"The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links to the https://c2pa.org/ standard for metadata. The API for FLUX.2 [klein] applies cryptographically-signed C2PA metadata to downloaded output content to indicate that i",1,claude (coder author),
+A-rare-positive,black-forest-labs/FLUX.2-klein-base-4b-fp8,provenance,"The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links to the https://c2pa.org/ standard for metadata. The API for FLUX.2 [klein] applies cryptographically-signed C2PA metadata to downloaded output content to indicate that i",1,claude (coder author),
+A-rare-positive,nvidia/Cosmos3-Super-Text2Image-4Step,provenance,"hreats and incitement to violence, self-harm or suicide-related content, and graphic violence. Data sources are reviewed for licensing compatibility, provenance, and alignment with internal data governance and safety policies before admission into training corpora. Automated filtering pipelines combine multip",1,claude (coder author),
+A-rare-positive,black-forest-labs/FLUX.2-klein-4B,synthetic_disclosure,"and https://www.microsoft.com/. 6. Content provenance. Content provenance features can help users and platforms better identify, label, and interpret AI-generated content online. The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links",1,claude (coder author),
+A-rare-positive,black-forest-labs/FLUX.2-klein-base-4B,synthetic_disclosure,"and https://www.microsoft.com/. 6. Content provenance. Content provenance features can help users and platforms better identify, label, and interpret AI-generated content online. The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links",1,claude (coder author),
+A-rare-positive,unsloth/FLUX.2-klein-4B-GGUF,synthetic_disclosure,"and https://www.microsoft.com/. 6. Content provenance. Content provenance features can help users and platforms better identify, label, and interpret AI-generated content online. The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links",1,claude (coder author),
+A-rare-positive,black-forest-labs/FLUX.2-klein-4b-fp8,synthetic_disclosure,"and https://www.microsoft.com/. 6. Content provenance. Content provenance features can help users and platforms better identify, label, and interpret AI-generated content online. The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links",1,claude (coder author),
+A-rare-positive,black-forest-labs/FLUX.2-klein-base-4b-fp8,synthetic_disclosure,"and https://www.microsoft.com/. 6. Content provenance. Content provenance features can help users and platforms better identify, label, and interpret AI-generated content online. The inference code for FLUX.2 [klein] implements an example of pixel-layer watermarking. Additionally, this repository includes links",1,claude (coder author),
+B-rare-rejected,stabilityai/stable-diffusion-xl-base-1.0,watermark (REJECTED),".19.0: ``` pip install diffusers --upgrade ```  In addition make sure to install `transformers`, `safetensors`, `accelerate` as well as the invisible watermark: ``` pip install invisible_watermark transformers accelerate safetensors ```  To just use the base model, you can run:  ```py from diffusers import D",1,claude (coder author),
+B-rare-rejected,stable-diffusion-v1-5/stable-diffusion-v1-5,watermark (REJECTED),"oved-aesthetics"" (a subset of laion2B-en, filtered to images with an original size `>= 512x512`, estimated aesthetics score `> 5.0`, and an estimated watermark probability `< 0.5`. The watermark estimate is from the LAION-5B metadata, the aesthetics score is estimated using an [improved aesthetics estimator]",1,claude (coder author),
+B-rare-rejected,CompVis/stable-diffusion-v1-4,watermark (REJECTED),"oved-aesthetics"" (a subset of laion2B-en, filtered to images with an original size `>= 512x512`, estimated aesthetics score `> 5.0`, and an estimated watermark probability `< 0.5`. The watermark estimate is from the LAION-5B metadata, the aesthetics score is estimated using an [improved aesthetics estimator]",1,claude (coder author),
+B-rare-rejected,cagliostrolab/animagine-xl-4.0,watermark (REJECTED),"hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry""  image = pipe(     prompt,     negative_prompt=negative_prompt,     width=832,     height=1216,     guidance_scale=5,     num_infe",1,claude (coder author),
+B-rare-rejected,cagliostrolab/animagine-xl-3.1,watermark (REJECTED),"g at viewer, outdoors, night"" negative_prompt = ""nsfw, lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]""  image = pipe(",1,claude (coder author),
+B-rare-rejected,stable-diffusion-v1-5/stable-diffusion-inpainting,watermark (REJECTED),"oved-aesthetics"" (a subset of laion2B-en, filtered to images with an original size `>= 512x512`, estimated aesthetics score `> 5.0`, and an estimated watermark probability `< 0.5`. The watermark estimate is from the LAION-5B metadata, the aesthetics score is estimated using an [improved aesthetics estimator]",1,claude (coder author),
+B-rare-rejected,cagliostrolab/animagine-xl-3.0,watermark (REJECTED),", bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name""  image = pipe(     prompt,      negative_prompt=negative_prompt,      width=832,     height=1216,     guidance_scale=",1,claude (coder author),
+B-rare-rejected,ideogram-ai/ideogram-4-fp8,watermark (REJECTED),"rom a single   prompt. - **State-of-the-art text rendering.** Ideogram 4 delivers best-in-class   in-image text generation (signage, logos, captions, watermarks, multi-line   text) with high fidelity directly from the prompt. - **Spatial layout control.** Bounding-box coordinates in the prompt allow   explici",1,claude (coder author),
+B-rare-rejected,InstantX/InstantID,watermark (REJECTED),"ography, stained, highly detailed, found footage, masterpiece, best quality"" negative_prompt = ""(lowres, low quality, worst quality:1.2), (text:1.2), watermark, painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured (lowres, low quality, worst quality:1.2), (text:1.2), water",1,claude (coder author),
+B-rare-rejected,unsloth/Qwen-Image-2512-GGUF,synthetic_disclosure (REJECTED),"released in August, Qwen-Image-2512 features the following key improvements:  * **Enhanced Huamn Realism** Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. * **Finer Natural Detail** Qwen-Image-2512 delivers notably mo",1,claude (coder author),
+B-rare-rejected,Qwen/Qwen-Image-2512,synthetic_disclosure (REJECTED),"released in August, Qwen-Image-2512 features the following key improvements:  * **Enhanced Huamn Realism** Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. * **Finer Natural Detail** Qwen-Image-2512 delivers notably mo",1,claude (coder author),
+B-rare-rejected,nvidia/Cosmos3-Super-Text2Image-4Step,synthetic_disclosure (REJECTED),|  ### Synthetic Datasets  | Dataset                                 | Samples     | |-----------------------------------------|-------------| | synthetic images generated using HiDream-I1       | 15M         | | synthetic images generated using Qwen-Image-2512  | 14M         | | synthetic captions generated,1,claude (coder author),
+C-common-positive,krea/Krea-2-Turbo,prohibited_uses,"sting designed to assess the model's resilience to attempts to elicit harmful or policy-violating outputs. Testing covered sexually explicit content, non-consensual intimate imagery, child-safety risks, and other high-risk content categories. Based on these evaluations, the release checkpoints demonstrated high r",1,claude (coder author),"span showed red-team description; card states prohibitions elsewhere, card-level flag correct"
+C-common-positive,diffusers/stable-diffusion-xl-1.0-inpainting-0.1,prohibited_uses,"al to generate harmful content. - Probing and understanding the limitations and biases of generative models.  Excluded uses are described below.  ### Out-of-Scope Use  The model was not trained to be factual or true representations of people or events, and therefore using the model to generate such content is out-o",1,claude (coder author),
+C-common-positive,CompVis/stable-diffusion-v1-4,prohibited_uses,"of people or their environments, cultures, religions, etc. - Intentionally promoting or propagating discriminatory content or harmful stereotypes. - Impersonating individuals without their consent. - Sexual content without consent of the people who might see it. - Mis- and disinformation - Representations of",1,claude (coder author),
+C-common-positive,black-forest-labs/FLUX.2-klein-4b-fp8,prohibited_uses,"e information that can be used to harm an individual. - To harass, abuse, threaten, stalk, or bully individuals or groups of individuals. - To create non-consensual intimate imagery or illegal pornographic content. - For fully automated decision making or high risk applications that adversely impact an individual",1,claude (coder author),
+C-common-positive,vantagewithai/Krea-2-Turbo-GGUF,prohibited_uses,"sting designed to assess the model's resilience to attempts to elicit harmful or policy-violating outputs. Testing covered sexually explicit content, non-consensual intimate imagery, child-safety risks, and other high-risk content categories. Based on these evaluations, the release checkpoints demonstrated high r",1,claude (coder author),"span showed red-team description; card states prohibitions elsewhere, card-level flag correct"
+C-common-positive,stabilityai/stable-diffusion-3-medium-diffusers,prohibited_uses,"ed-teaming testing for specific, severe harms such as child sexual abuse and exploitation, extreme violence, and gore, sexually explicit content, and non-consensual nudity.  Testing was conducted primarily in English and may not cover all possible harms.  As with any model, the model may, at times, produce inaccu",1,claude (coder author),"span showed red-team description; card states prohibitions elsewhere, card-level flag correct"
+C-common-positive,stabilityai/sdxl-turbo,prohibited_uses,"ute, adorable, Pixar, Disney, 8k""  image = pipe(prompt, image=init_image, num_inference_steps=2, strength=0.5, guidance_scale=0.0).images[0] ```  ### Out-of-Scope Use  The model was not trained to be factual or true representations of people or events,  and therefore using the model to generate such content is out-",1,claude (coder author),
+C-common-positive,black-forest-labs/FLUX.2-klein-base-4b-fp8,prohibited_uses,"e information that can be used to harm an individual. - To harass, abuse, threaten, stalk, or bully individuals or groups of individuals. - To create non-consensual intimate imagery or illegal pornographic content. - For fully automated decision making or high risk applications that adversely impact an individual",1,claude (coder author),
+C-common-positive,black-forest-labs/FLUX.1-dev,prohibited_uses,"e information that can be used to harm an individual. - To harass, abuse, threaten, stalk, or bully individuals or groups of individuals. - To create non-consensual nudity or illegal pornographic content. - For fully automated decision making that adversely impacts an individual's legal rights or otherwise create",1,claude (coder author),
+C-common-positive,stabilityai/stable-diffusion-3.5-large,prohibited_uses,"imitations of generative models.  All uses of the model must be in accordance with our [Acceptable Use Policy](https://stability.ai/use-policy).  ### Out-of-Scope Uses  The model was not trained to be factual or true representations of people or events.  As such, using the model to generate such content is out-of-s",1,claude (coder author),
+C-common-positive,Laxhar/noobai-XL-1.1,prohibited_uses,". Usage Restrictions  - Prohibited use for harmful, malicious, or illegal activities, including but not limited to harassment, threats, and spreading misinformation. - Prohibited generation of unethical or offensive content. - Prohibited violation of laws and regulations in the user's jurisdiction.  ## II. Commer",1,claude (coder author),
+C-common-positive,stable-diffusion-v1-5/stable-diffusion-v1-5,prohibited_uses,"of people or their environments, cultures, religions, etc. - Intentionally promoting or propagating discriminatory content or harmful stereotypes. - Impersonating individuals without their consent. - Sexual content without consent of the people who might see it. - Mis- and disinformation - Representations of",1,claude (coder author),
+C-common-positive,nvidia/Cosmos3-Super-Text2Image-4Step,downstream_obligation,Trustworthy AI is a shared responsibility and we have established policies and practices to enable development for a wide array of AI applications.  Developers should work with their internal model team to ensure this model meets requirements for the relevant industry and use case and addresses unforeseen product m,1,claude (coder author),
+C-common-positive,black-forest-labs/FLUX.2-klein-base-4b-fp8,downstream_obligation,"ers). These prohibit the generation of unlawful content or the use of generated content for unlawful, defamatory, or abusive purposes. Developers and users must consent to these conditions to access the FLUX.2 [klein] 9B models on Hugging Face. 8. Safety. Black Forest Labs takes model safety seriously. We pro",1,claude (coder author),
+C-common-positive,stabilityai/stable-diffusion-3.5-medium,downstream_obligation,"ance between usefulness and preventing harm. However, this does not guarantee that all possible harmful content has been removed. TAll developers and deployers should exercise caution and implement content safety guardrails based on their specific product policies and application use cases. * Misuse: Technical limi",1,claude (coder author),
+C-common-positive,stabilityai/stable-diffusion-3-medium-diffusers,downstream_obligation,"does not guarantee that all possible harmful content has been removed. The model may, at times, generate toxic or biased content.  All developers and deployers should exercise caution and implement content safety guardrails based on their specific product policies and application use cases. * Misuse: Technical limi",1,claude (coder author),
+C-common-positive,HiDream-ai/HiDream-I1-Fast,downstream_obligation,"llow the license terms specified for these components. You own all content you create with this model. You can use your generated content freely, but you must comply with this license agreement. You are responsible for how you use the models. Do not create illegal content, harmful material, personal informa",1,claude (coder author),
+C-common-positive,RunDiffusion/Juggernaut-XI-v11,downstream_obligation,"%20Free%20%E2%86%92-7C3AED?style=for-the-badge&labelColor=7C3AED""></a> </div>  ### 💻 Or run it locally — Diffusers  > **Note:** XI is a gated model — you must accept the terms above and authenticate with `huggingface-cli login` (or set `HF_TOKEN`) before pulling weights.  ```python import torch from diffuse",0,claude (coder author),"gate/auth instruction, not a downstream obligation - excluded in final coder"
+C-common-positive,lodestones/Chroma1-HD,downstream_obligation,"hat may be considered harmful, explicit, or offensive. I encourage developers to implement appropriate safeguards and ethical considerations in their downstream applications.  ## Summary of Architectural Modifications *(For a full breakdown, tech report soon-ish.)*  *   **12B → 8.9B Parameters:**     *   **TL;DR:** I rep",1,claude (coder author),
+C-common-positive,krea/Krea-2-Raw,downstream_obligation,"images.  Because this is also an open-weights release, Krea does not control downstream deployment of the model. Under the Krea 2 Community License, deployers are required to implement content filtering measures or equivalent review processes to prevent the generation or distribution of unlawful or policy-violating cont",1,claude (coder author),
+C-common-positive,ideogram-ai/ideogram-4-fp8,downstream_obligation,"rc/ideogram4/` take effect without reinstalling:  ```bash pip install -e . ```  ### Model access  The model weights are **gated** on Hugging Face, so you must accept the gate and authenticate before the code can download them — otherwise the download fails with a `404` / `GatedRepoError`.  1. Open the model",0,claude (coder author),"gate/auth instruction, not a downstream obligation - excluded in final coder"
+C-common-positive,Laxhar/noobai-XL-Vpred-1.0,downstream_obligation,"er ideas, and way more hype.  No gatekeeping—post your 'secret sauce' in public spaces. Everyone wins!     To foster a thriving open-source community,users MUST comply with the following requirements:  - Open source derivative models, merged models, LoRAs, and products based on the above models. - Share work",1,claude (coder author),
+C-common-positive,black-forest-labs/FLUX.1-Krea-dev,downstream_obligation,"al License prohibits the generation of unlawful content or the use of generated content for unlawful, defamatory, or abusive purposes. Developers and users must consent to these conditions to access the FLUX.1 Krea [dev] model. 6. **Monitoring.** BFL is monitoring for patterns of violative use after release,",1,claude (coder author),
+C-common-positive,lodestones/Chroma1-Base,downstream_obligation,"hat may be considered harmful, explicit, or offensive. I encourage developers to implement appropriate safeguards and ethical considerations in their downstream applications.  ## Summary of Architectural Modifications *(For a full breakdown, tech report soon-ish.)*  *   **12B → 8.9B Parameters:**     *   **TL;DR:** I rep",1,claude (coder author),
+D-negative,ByteDance/Hyper-SD,(none flagged),"
+# Hyper-SD
+Official Repository of the paper: *[Hyper-SD](https://arxiv.org/abs/2404.13686)*.
+
+Project Page: https://hyper-sd.github.io/
+
+![](./hypersd_tearser.jpg)
+
+
+## News🔥🔥🔥
+
+* Aug.26, 2024. 💥💥💥 Our 8-steps and 16-steps **FLUX.1-dev-related LoRAs** are available now! We recommend LoRA scales around 0.125 that is adaptive with training and guidance scale could be kept on 3.5. Lower step LoRAs would be coming soon. 💥💥💥
+* Aug.19, 2024. SD3-related CFG LoRAs are available now! We recommend setting guidance scale to 3.0/5.0/7.0 at 4/8/16-steps. Don't forget to fuse lora with a relatively small ",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,SimianLuo/LCM_Dreamshaper_v7,(none flagged),"
+# Latent Consistency Models
+
+Official Repository of the paper: *[Latent Consistency Models](https://arxiv.org/abs/2310.04378)*.
+
+Project Page: https://latent-consistency-models.github.io
+
+## Try our Hugging Face demos: 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/SimianLuo/Latent_Consistency_Model)
+
+## Model Descriptions:
+Distilled from [Dreamshaper v7](https://huggingface.co/Lykon/dreamshaper-7) fine-tune of [Stable-Diffusion v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5) with only 4,000 training",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,diroverflo/FLux_Klein_9B_NSFW,(none flagged),"# NSFW - FLux Klein
+
+<Gallery />
+
+## Model description 
+
+[NSFW] Solo Girl Focus - Flux Klein 9B
+
+This LoRA is specifically trained for Flux.2 Klein 9B, focusing on high-quality NSFW solo girl content. No face is present in the dataset so it should perfectly work with characters Lora (not tested).
+
+⚠️ Note on Anatomy:
+Please keep in mind that while this LoRA produces great results, Flux Klein 9B still has its limitations with anatomy. You may encounter some inconsistencies in complex poses.
+
+
+## Download model
+
+
+[Download](/diroverflo/FLux_Klein_9B_NSFW/tree/main) them in the Files & versions t",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,John6666/nova-furry-xl-il-v120-sdxl,(none flagged),"
+Original model is [here](https://civitai.com/models/503815/nova-furry-xl?modelVersionId=2268972).
+This model created by [Crody](https://civitai.com/user/Crody).
+",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,John6666/obsession-illustriousxl-v10-sdxl,(none flagged),"
+Original model is [here](https://civitai.com/models/819966/knk-helioblend-illustrious-v01?modelVersionId=916899).
+This model created by [Konoko](https://civitai.com/user/Konoko).
+",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,xinsir/controlnet-union-sdxl-1.0,(none flagged),"
+# **ControlNet++: All-in-one ControlNet for image generations and editing!**
+## **ProMax Model has released!! 12 control + 5 advanced editing, just try it!!!**
+![images_display](./images/masonry.webp)
+
+## Network Arichitecture
+![images](./images/ControlNet++.png)
+
+## Advantages about the model
+- Use bucket training like novelai, can generate high resolutions images of any aspect ratio
+- Use large amount of high quality data(over 10000000 images), the dataset covers a diversity of situation
+- Use re-captioned prompt like DALLE.3, use CogVLM to generate detailed description, good prompt followi",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,Qwen/Qwen-Image,(none flagged),"<p align=""center"">
+    <img src=""https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/qwen_image_logo.png"" width=""400""/>
+<p>
+<p align=""center"">
+          💜 <a href=""https://chat.qwen.ai/""><b>Qwen Chat</b></a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href=""https://huggingface.co/Qwen/Qwen-Image"">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href=""https://modelscope.cn/models/Qwen/Qwen-Image"">ModelScope</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href=""https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/Qwen_Image.pdf"">Tech Report</a> &nbsp&nbsp | &nbsp&nbsp 📑 <a href=""https://qwenlm.github.io/blog/qwen-image/",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,T5B/Z-Image-Turbo-FP8,(none flagged),"# Z-Image-Turbo (FP8 E5M2 & E4M3FN)
+
+This is a quantization of [Tongyi-MAI/Z-Image-Turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo) to **FP8 E5M2** and **FP8 E4M3FN**.
+
+**License & Usage:**
+This model strictly follows the original licensing terms and usage restrictions. Please refer to the [original model card](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo) for details.",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,cagliostrolab/animagine-xl-3.1,(none flagged),"
+<style>
+  .title-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .title {
+    font-size: 2.5em;
+    text-align: center;
+    color: #333;
+    font-family: 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 0.5em 0;
+    background: transparent;
+  }
+  
+  .title span {
+    background: -webkit-linear-gradient(45deg, #7ed56f, #28b485);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .custom-table {
+    table-layout: fixed;
+    width: 100%;
+    bord",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,Omnico/Krea2_turbo_diff_loras,(none flagged),"# Extracted Loras from Krea 2 (Turbo) finetunes
+
+<Gallery />
+
+## Model description 
+
+These LoRAs were extracted from fine-tuned checkpoints. I did this primarily for myself because LoRAs are easier to work with: they can be mixed in real time and assigned different weights/strengths. This also saves space on your local computer. They work well at 100–150% strength. Choose a rank according to your taste and your hardware capabilities (the lower the rank, the less memory you need). However, some of my test generations showed that a lower rank can sometimes be preferable: it does not cause artifa",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,John6666/amanatsu-illustrious-v11-sdxl,(none flagged),"
+Original model is [here](https://civitai.com/models/1325426?modelVersionId=1496755).
+This model created by [Ikena](https://civitai.com/user/Ikena).
+",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,latent-consistency/lcm-lora-sdv1-5,(none flagged),"
+# Latent Consistency Model (LCM) LoRA: SDv1-5
+
+Latent Consistency Model (LCM) LoRA was proposed in [LCM-LoRA: A universal Stable-Diffusion Acceleration Module](https://arxiv.org/abs/2311.05556) 
+by *Simian Luo, Yiqin Tan, Suraj Patil, Daniel Gu et al.*
+
+It is a distilled consistency adapter for [`runwayml/stable-diffusion-v1-5`](https://huggingface.co/runwayml/stable-diffusion-v1-5) that allows
+to reduce the number of inference steps to only between **2 - 8 steps**.
+
+| Model                                                                      | Params / M | 
+|---------------------------------",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,Tongyi-MAI/Z-Image,(none flagged),"
+<h1 align=""center"">⚡️- Image<br><sub><sup>An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer</sup></sub></h1>
+
+<div align=""center"">
+
+[![Official Site](https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage)](https://tongyi-mai.github.io/Z-Image-blog/)&#160;
+[![GitHub](https://img.shields.io/badge/GitHub-Z--Image-181717?logo=github&logoColor=white)](https://github.com/Tongyi-MAI/Z-Image)&#160;
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Checkpoint-Z--Image-yellow)](https://huggingface.co/Tongyi-MAI/Z-Image)&#160;
+[![Hugging F",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,lightx2v/Qwen-Image-Lightning,(none flagged),"
+Please refer to [Qwen-Image-Lightning github](https://github.com/ModelTC/Qwen-Image-Lightning/) to learn how to use the models.
+
+use with diffusers 🧨:
+
+make sure to install diffusers from `main` (`pip install git+https://github.com/huggingface/diffusers.git`)
+```
+from diffusers import DiffusionPipeline, FlowMatchEulerDiscreteScheduler
+import torch 
+import math
+
+# From https://github.com/ModelTC/Qwen-Image-Lightning/blob/342260e8f5468d2f24d084ce04f55e101007118b/generate_with_diffusers.py#L82C9-L97C10
+scheduler_config = {
+    ""base_image_seq_len"": 256,
+    ""base_shift"": math.log(3),  # We use s",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,Qwen/Qwen-Image-2512,(none flagged),"<p align=""center"">
+    <img src=""https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/qwen_image_logo.png"" width=""400""/>
+<p>
+<p align=""center"">
+          💜 <a href=""https://chat.qwen.ai/""><b>Qwen Chat</b></a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href=""https://huggingface.co/Qwen/Qwen-Image-2512"">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href=""https://modelscope.cn/models/Qwen/Qwen-Image-2512"">ModelScope</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href=""https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/Qwen_Image.pdf"">Tech Report</a> &nbsp&nbsp | &nbsp&nbsp 📑 <a href=""https://qwen.ai/blog?id=qwen-im",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,city96/FLUX.1-dev-gguf,(none flagged),"
+This is a direct GGUF conversion of [black-forest-labs/FLUX.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev/tree/main)
+
+As this is a quantized model not a finetune, all the same restrictions/original license terms still apply.
+
+The model files can be used with the [ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) custom node.
+
+Place model files in `ComfyUI/models/unet` - see the GitHub readme for further install instructions.
+
+Please refer to [this chart](https://github.com/ggerganov/llama.cpp/blob/master/examples/perplexity/README.md#llama-3-8b-scoreboard) for a basic overvie",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,leejet/Z-Image-Turbo-GGUF,(none flagged),"
+# Z-Image-Turbo GGUF quantized files
+
+The license of the quantized files follows the license of the original model:
+ - Z-Image-Turbo: apache-2.0
+
+These files are converted using https://github.com/leejet/stable-diffusion.cpp
+
+You can use these weights with stable-diffusion.cpp to generate images.
+
+## How to Use Z‐Image on a GPU with Only 4GB VRAM
+
+https://github.com/leejet/stable-diffusion.cpp/wiki/How-to-Use-Z%E2%80%90Image-on-a-GPU-with-Only-4GB-VRAM
+
+## Example command
+
+```
+.\bin\Release\sd.exe --diffusion-model  z_image_turbo-Q3_K.gguf --vae ae.safetensors  --llm Qwen3-4B-Instruct-2507-Q4",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,offgrid-ai/pony-diffusion-v6-xl-GGUF,(none flagged),"
+# Pony Diffusion V6 XL — GGUF (Off Grid build)
+
+GGUF conversions of [Pony Diffusion V6 XL](https://huggingface.co/AstraliteHeart/pony-diffusion-v6) for **on-device** image generation with
+[stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp). Converted with
+sd.cpp's `-M convert` so the tensors are correctly named and load directly — the
+community GGUF quants of this model are mis-exported and fail `get sd version from file`.
+
+![sample](sample.png)
+
+## Files
+- `pony-diffusion-v6-xl-Q8_0.gguf` — best quality
+- `pony-diffusion-v6-xl-Q4_K.gguf` — lighter / lower RAM
+
+## Use with ",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,cyberdelia/CyberRealistic,(none flagged),"
+# CyberRealistic
+
+**CyberRealistic** is a photorealistic image generation model built upon the **Stable Diffusion 1.5 (SD 1.5)** architecture. Developed by [Cyberdelia](https://civitai.com/user/Cyberdelia), this model excels at producing lifelike portraits and scenes with minimal prompt engineering, making it ideal for creators seeking high-quality outputs without complex configurations.
+
+---
+
+## 🧠 Model Details
+
+- **Model Type**: Text-to-Image Generation
+- **Base Model**: Stable Diffusion 1.5 (SD 1.5)
+- **Format**: `safetensors`
+- **Version**: v8.0
+- **Creator**: [Cyberdelia](https://civitai",1,claude (coder author),full-card recheck found no missed marking claim
+D-negative,wikeeyang/Flux2-Klein-9B-True-V3,(none flagged),"# **Flux2-Klein-9B-True-V3**
+
+==================================================================================
+
+✌️✌️✌️ 0Day Support ""**int4_convrot**"" quantized format with Comfy-Org, [Flux2-Klein-9B-True-V3-int4_convrot.safetensors](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V3/resolve/main/Flux2-Klein-9B-True-V3-int4_convrot.safetensors)
+
+--------------------------
+
+针对低显存的用户，推荐 [**smthemex/ComfyUI_UniBlockSwap**](https://github.com/smthemex/ComfyUI_UniBlockSwap)，只需 **4-6GB** 显存，即可跑 bf16 全量模型。
+Recommend [**smthemex/ComfyUI_UniBlockSwap**](https://github.com/smthemex/ComfyUI_UniBlo",1,claude (coder author),full-card recheck found no missed marking claim
